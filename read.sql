@@ -1,0 +1,1 @@
+-- Create query to read the data from the products 
